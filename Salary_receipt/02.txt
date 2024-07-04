@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+-------------------------------------------------
+Employee ID		:  02
+Salary Of		:  Dec-2020
+Generated On		:  11-02-2022
+-------------------------------------------------
+Total Days		:  31
+Total Present		:  30
+Total Absent		:  1
+Convence		:  Rs.4000
+Medical		:  Rs.1500
+PF		:  Rs.1500
+Gross Payment		:  Rs.35000
+Net Salary		: Rs.34870.97
+-------------------------------------------------
+This is computer generated slipn not
+required any signature
+
